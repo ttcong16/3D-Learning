@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.zip
+*.pth
+assignment2/r2n2_shapenet_dataset/
+assignment2/Data/
+assignment3/Data1/
+assignment3/nerf_materials/
+*.obj
